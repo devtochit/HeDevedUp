@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> This is Favour!</h2>
+# <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> This is Jesse!</h2>
 <!-- 🏾‍💻 -->
 
 A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with include JavaScript, HTML/CSS, Bootstrap.
@@ -14,7 +14,7 @@ A software engineer who is passionate about building websites and web apps, maki
 - ⚡ Fun fact: I love to travel and have fun with family.
 <br/>
 
-## Find me around the web 🌎: <a href="https://github.com/Favourezeugwa"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/Hedevedup"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Tinkering with interactions on <a href="https://codepen.io/favourezeugwa"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/">LinkedIn</a> 💼
 - Contact me on <a href="favourezeugwa@gmail.com/">Gmail</a> 📫
