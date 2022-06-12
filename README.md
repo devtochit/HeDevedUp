@@ -10,7 +10,6 @@ A software engineer who is passionate about building websites and web apps, maki
 - 🌱 Currently learning ES6, Webpack, modules
 - 👯 Looking to work with software engineers globally.
 - 💬 Ask me about Front end web dev.
-- 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love to travel and have fun with family.
 <br/>
 
