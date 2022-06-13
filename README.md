@@ -1,24 +1,60 @@
-# <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> This is Jesse!</h2>
-<!-- 🏾‍💻 -->
-
-A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with include JavaScript, HTML/CSS, Bootstrap.
-
-<br/>
+<h1 align="center">👋 Hello! I'm Gabriel Santo!</h1>
+<h3 align="center">I'm open to new job opportunities and challenges</h3>
 
 
-- 🔭 Student at Microverse.
-- 🌱 Currently learning ES6, Webpack, modules
-- 👯 Looking to work with software engineers globally.
-- 💬 Ask me about Front end web dev.
-- ⚡ Fun fact: I love to travel and have fun with family.
-<br/>
+<div align="left" width="50%">
+  <h2> About me </h2>
+  
+  I'm a pragmatic Full Stack Web developer with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
+  
+**My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
 
-## Find me around the web 🌎: <a href="https://github.com/Hedevedup"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Tinkering with interactions on <a href="https://codepen.io/favourezeugwa"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/">LinkedIn</a> 💼
-- Contact me on <a href="favourezeugwa@gmail.com/">Gmail</a> 📫
+  - 💻 I’m currently learning how to improve my code quality using SOLID principles and Design Patterns. 
+  - 💬 Ask me about Node.js, REST APIs, React and Redux.
+  - ⚡ Quote: Living, learning, & leveling up! 
+<div>
+  
+### Contact me:
+  <a href="mailto:uzomaesse@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-santo-5882a71b2/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
+    <a href="https://twitter.com/devtochi" target="_blank"><img align="left" alt="dev tochi Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
+<br />
+  
+---
 
-<br/>
+### 🛠 &nbsp;Languages and Technologies:
 
-## My Github stats card <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="30">:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEDevedUp&count_private=true&show_icons=true&theme=moltack&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favourezeugwa&layout=compact&theme=moltack&border_radius=15&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+###  📈 &nbsp; My GitHub Stats
+  
+  <br>
+
+ <div align="center">
+   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=HeDevedUp&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="uzom jesse Github Stats" />
+</div>
+<div align="center">  
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeDevedUp&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Gabriel Santo Most Used Languages" />
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=gvgesanto2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Gabriel Santo Github Current Streak" /> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
