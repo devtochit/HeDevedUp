@@ -5,7 +5,7 @@
 <div align="left" width="50%">
   <h2> About me </h2>
   
-  I'm a pragmatic Full Stack Web developer with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
+  I'm a pragmatic frontend Web developer with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
   
 **My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
 
